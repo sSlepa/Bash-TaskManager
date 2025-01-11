@@ -156,8 +156,3 @@ The script supports the following options:
 - A UNIX/Linux system.
 - `bash` shell.
 - Root privileges for certain options (e.g., changing configurations, viewing logs).
-
-## License
-
-This project is licensed under the MIT License.
-
