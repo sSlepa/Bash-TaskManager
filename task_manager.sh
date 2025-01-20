@@ -1,7 +1,5 @@
 #!/bin/bash
 
-exec > >(tee -a out.log) 2>&1
-
 echo "NEW START OF PROGRAM ---- $(date)"
 
 # Helper function pentru output on terminal
